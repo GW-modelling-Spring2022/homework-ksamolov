@@ -1,0 +1,7 @@
+#Disscusion points
+1.	Boundary conditions are physical characteristics of one groundwater system (Reilly, 2001). In this case of 1 D vertical groundwater model, the boundary conditions are constant head top and head bottom. 
+2.	Parameters are physical properties of an aquifer: aquifer thickness, topography, hydraulic conductivity, transmissivity, storativity, and soil type. Understanding aquifer properties help us perceive how water exists and flows. 
+3.	Steady state is a condition with no changes in groundwater head over time. The results show uniform thickness, constant permeability, and constant flow that can be seen in the same values of flux and same changes of head with depth. 
+4.	Data could be stored in separate text files for instance, it does not have to be an excel file or in different sheets of one excel file. These separate files could be stored in a one folder with the name of the input files that your model has to run. 
+5.	Iterative solution is a approximate solution used to solve more complex equations that could not be solved directly and involve many variables. It can be used for both linear and non-linear equations. Iterative solution can be used in cases of missing data.  
+6.	Direct solution can solve problems by a limited number of operations. It can be used only for linear equations. Direct solution is less complicated, however, not applicable in complex situations. 
